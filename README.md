@@ -1,2 +1,2 @@
 # agieeo.github.io
-a websie demo
+a website demo
